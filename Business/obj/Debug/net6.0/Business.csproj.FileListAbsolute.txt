@@ -1,0 +1,5 @@
+C:\Users\90531\Desktop\C#\MaskeTakip\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\90531\Desktop\C#\MaskeTakip\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90531\Desktop\C#\MaskeTakip\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\90531\Desktop\C#\MaskeTakip\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\90531\Desktop\C#\MaskeTakip\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache

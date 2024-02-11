@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workaround", "Workaround\Workaround.csproj", "{79DCF22F-E82E-4D58-A401-B8A3F4028D05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{50F0A52C-609C-4F65-9541-341B8853D597}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{A60672CB-2C76-44CF-ACCD-0E7FFCBEDA01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79DCF22F-E82E-4D58-A401-B8A3F4028D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79DCF22F-E82E-4D58-A401-B8A3F4028D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79DCF22F-E82E-4D58-A401-B8A3F4028D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79DCF22F-E82E-4D58-A401-B8A3F4028D05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50F0A52C-609C-4F65-9541-341B8853D597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F0A52C-609C-4F65-9541-341B8853D597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50F0A52C-609C-4F65-9541-341B8853D597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50F0A52C-609C-4F65-9541-341B8853D597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A60672CB-2C76-44CF-ACCD-0E7FFCBEDA01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A60672CB-2C76-44CF-ACCD-0E7FFCBEDA01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A60672CB-2C76-44CF-ACCD-0E7FFCBEDA01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A60672CB-2C76-44CF-ACCD-0E7FFCBEDA01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A531AD11-DB30-484D-9747-A4A51EAFFEBC}
+	EndGlobalSection
+EndGlobal
